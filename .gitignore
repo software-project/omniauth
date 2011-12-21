@@ -3,7 +3,7 @@
 
 /live
 .rvmrc
-
+.idea/
 dist/*
 
 ## TEXTMATE
