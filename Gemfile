@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
 
+gem 'faraday', '~> 0.7.0'
 gemspec :path => 'oa-basic'
 gemspec :path => 'oa-core'
 gemspec :path => 'oa-enterprise'
